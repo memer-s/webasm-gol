@@ -1,0 +1,17 @@
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #f3f3f3;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+	color: #212121;
+}
+
+canvas {
+	border: #ddd 1px solid;
+	border-radius: 10px;
+}
